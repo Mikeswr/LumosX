@@ -29,8 +29,6 @@ export type EarthScopeTrend = {
   evidence_class: string;
 };
 
-type ListResponse<T> = { count: number; [key: string]: unknown } & Record<string, unknown>;
-
 async function request<T>(path: string, signal?: AbortSignal): Promise<T> {
   if (!API_BASE) {
     throw new Error("EarthScope is not connected yet. The API address has not been configured.");
