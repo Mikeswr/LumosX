@@ -1,0 +1,33 @@
+{
+ "id": "satellite",
+ "title": "How a satellite takes a picture of Pokuase",
+ "duration": 48.4,
+ "scenes": [
+  {
+   "id": "g1",
+   "start": 0,
+   "caption": "A satellite circles high above Ghana, about 786 km up."
+  },
+  {
+   "id": "g2",
+   "start": 12.2,
+   "caption": "Sunlight hits the ground and bounces back. The satellite's instrument measures that light."
+  },
+  {
+   "id": "g3",
+   "start": 21.3,
+   "caption": "The picture is made of tiny squares called pixels. In the red, green and blue bands each pixel is 10 metres wide on the ground."
+  },
+  {
+   "id": "g4",
+   "start": 30.0,
+   "caption": "Clouds block the view, so many pictures from one year are blended into one clear picture."
+  },
+  {
+   "id": "g5",
+   "start": 39.9,
+   "caption": "Put two years side by side to see what changed."
+  }
+ ],
+ "silent": true
+}

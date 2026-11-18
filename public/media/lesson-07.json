@@ -1,0 +1,95 @@
+{
+ "id": "lesson-07",
+ "title": "Meet Sentinel-2",
+ "duration": 79.1,
+ "audio": "lessons/lesson-07.mp3",
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0.0
+  },
+  {
+   "id": "s2",
+   "start": 7.6
+  },
+  {
+   "id": "s3",
+   "start": 18.9
+  },
+  {
+   "id": "s4",
+   "start": 26.8
+  },
+  {
+   "id": "s5",
+   "start": 41.4
+  },
+  {
+   "id": "s6",
+   "start": 59.4
+  },
+  {
+   "id": "s7",
+   "start": 70.4
+  }
+ ],
+ "cues": [
+  {
+   "start": 0.0,
+   "text": "Now that you understand the basics of satellite imagery, let\u2019s meet Sentinel-2."
+  },
+  {
+   "start": 7.6,
+   "text": "Sentinel-2 is part of the European Union\u2019s Copernicus Earth observation programme."
+  },
+  {
+   "start": 13.2,
+   "text": "The mission uses optical instruments to collect information about Earth\u2019s land and coastal areas."
+  },
+  {
+   "start": 18.9,
+   "text": "Its observations are useful for studying vegetation, land cover, agriculture, water bodies, and changes in settlements."
+  },
+  {
+   "start": 26.8,
+   "text": "Sentinel-2 measures reflected energy in several spectral bands."
+  },
+  {
+   "start": 31.6,
+   "text": "Some bands have ten-metre spatial resolution, while others have twenty-metre or sixty-metre resolution."
+  },
+  {
+   "start": 37.6,
+   "text": "The available detail therefore depends on the band you are using."
+  },
+  {
+   "start": 41.4,
+   "text": "The Sentinel-2 mission uses two satellites working together to provide frequent observations."
+  },
+  {
+   "start": 47.3,
+   "text": "Under favourable conditions, the combined mission can revisit a location approximately every five days, although actual usable observations depend on location, cloud cover, and other conditions."
+  },
+  {
+   "start": 59.4,
+   "text": "Clouds are an important limitation for optical imagery because they can obscure the surface."
+  },
+  {
+   "start": 65.0,
+   "text": "Scientists often use cloud masks and other quality checks before analysing an image."
+  },
+  {
+   "start": 70.4,
+   "text": "As you explore LumosX, remember that satellite images are measurements collected for scientific purposes, not simply photographs from space."
+  }
+ ],
+ "transcript": [
+  "Now that you understand the basics of satellite imagery, let\u2019s meet Sentinel-2.",
+  "Sentinel-2 is part of the European Union\u2019s Copernicus Earth observation programme. The mission uses optical instruments to collect information about Earth\u2019s land and coastal areas.",
+  "Its observations are useful for studying vegetation, land cover, agriculture, water bodies, and changes in settlements.",
+  "Sentinel-2 measures reflected energy in several spectral bands. Some bands have ten-metre spatial resolution, while others have twenty-metre or sixty-metre resolution. The available detail therefore depends on the band you are using.",
+  "The Sentinel-2 mission uses two satellites working together to provide frequent observations. Under favourable conditions, the combined mission can revisit a location approximately every five days, although actual usable observations depend on location, cloud cover, and other conditions.",
+  "Clouds are an important limitation for optical imagery because they can obscure the surface. Scientists often use cloud masks and other quality checks before analysing an image.",
+  "As you explore LumosX, remember that satellite images are measurements collected for scientific purposes, not simply photographs from space."
+ ]
+}

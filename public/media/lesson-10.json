@@ -1,0 +1,94 @@
+{
+ "id": "lesson-10",
+ "title": "The Moon",
+ "duration": 68.7,
+ "audio": "lessons/lesson-10.mp3",
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0.0
+  },
+  {
+   "id": "s2",
+   "start": 11.4
+  },
+  {
+   "id": "s3",
+   "start": 20.3
+  },
+  {
+   "id": "s4",
+   "start": 34.8
+  },
+  {
+   "id": "s5",
+   "start": 45.2
+  },
+  {
+   "id": "s6",
+   "start": 62.1
+  }
+ ],
+ "cues": [
+  {
+   "start": 0.0,
+   "text": "The Moon is Earth\u2019s natural satellite."
+  },
+  {
+   "start": 5.6,
+   "text": "It travels around Earth and is the most familiar object in our night sky after the stars."
+  },
+  {
+   "start": 11.4,
+   "text": "Unlike the Sun, the Moon does not produce its own visible light through nuclear fusion."
+  },
+  {
+   "start": 16.4,
+   "text": "We see it because sunlight reflects from its surface."
+  },
+  {
+   "start": 20.3,
+   "text": "As the Moon orbits Earth, the positions of the Sun, Earth, and Moon change relative to one another."
+  },
+  {
+   "start": 26.7,
+   "text": "This changes how much of the Moon\u2019s sunlit half we can see from Earth."
+  },
+  {
+   "start": 30.8,
+   "text": "These changing appearances are called lunar phases."
+  },
+  {
+   "start": 34.8,
+   "text": "The main phases include the new Moon, first quarter, full Moon, and last quarter."
+  },
+  {
+   "start": 40.7,
+   "text": "The cycle repeats over approximately twenty-nine and a half days."
+  },
+  {
+   "start": 45.2,
+   "text": "Lunar phases are not the same as eclipses."
+  },
+  {
+   "start": 48.0,
+   "text": "A lunar eclipse occurs when Earth moves between the Sun and Moon and Earth\u2019s shadow falls on the Moon."
+  },
+  {
+   "start": 54.4,
+   "text": "A solar eclipse occurs when the Moon passes between Earth and the Sun and blocks some or all of the Sun from our view."
+  },
+  {
+   "start": 62.1,
+   "text": "The Moon also plays an important role in ocean tides through its gravitational pull, together with the influence of the Sun."
+  }
+ ],
+ "transcript": [
+  "The Moon is Earth\u2019s natural satellite. It travels around Earth and is the most familiar object in our night sky after the stars.",
+  "Unlike the Sun, the Moon does not produce its own visible light through nuclear fusion. We see it because sunlight reflects from its surface.",
+  "As the Moon orbits Earth, the positions of the Sun, Earth, and Moon change relative to one another. This changes how much of the Moon\u2019s sunlit half we can see from Earth. These changing appearances are called lunar phases.",
+  "The main phases include the new Moon, first quarter, full Moon, and last quarter. The cycle repeats over approximately twenty-nine and a half days.",
+  "Lunar phases are not the same as eclipses. A lunar eclipse occurs when Earth moves between the Sun and Moon and Earth\u2019s shadow falls on the Moon. A solar eclipse occurs when the Moon passes between Earth and the Sun and blocks some or all of the Sun from our view.",
+  "The Moon also plays an important role in ocean tides through its gravitational pull, together with the influence of the Sun."
+ ]
+}

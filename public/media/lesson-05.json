@@ -1,0 +1,99 @@
+{
+ "id": "lesson-05",
+ "title": "What Do Satellites See?",
+ "duration": 81.6,
+ "audio": "lessons/lesson-05.mp3",
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0.0
+  },
+  {
+   "id": "s2",
+   "start": 12.6
+  },
+  {
+   "id": "s3",
+   "start": 24.3
+  },
+  {
+   "id": "s4",
+   "start": 41.7
+  },
+  {
+   "id": "s5",
+   "start": 48.7
+  },
+  {
+   "id": "s6",
+   "start": 62.5
+  },
+  {
+   "id": "s7",
+   "start": 71.6
+  }
+ ],
+ "cues": [
+  {
+   "start": 0.0,
+   "text": "When we look at a photograph, we usually see familiar colours and objects."
+  },
+  {
+   "start": 7.8,
+   "text": "Satellite instruments can observe more than what our eyes can see."
+  },
+  {
+   "start": 12.6,
+   "text": "Many Earth observation satellites measure sunlight reflected from the land, water, and vegetation."
+  },
+  {
+   "start": 19.1,
+   "text": "Other instruments measure different forms of energy, including thermal radiation."
+  },
+  {
+   "start": 24.3,
+   "text": "The information collected depends on the instrument and the wavelengths it can detect."
+  },
+  {
+   "start": 30.2,
+   "text": "Visible light includes the colours that human eyes can see."
+  },
+  {
+   "start": 34.1,
+   "text": "Infrared wavelengths can reveal useful information about vegetation, land surfaces, and other features."
+  },
+  {
+   "start": 41.7,
+   "text": "Scientists often combine measurements from different wavelength bands to investigate environmental conditions."
+  },
+  {
+   "start": 48.7,
+   "text": "A satellite image displayed in natural colour is designed to resemble what we might see with our eyes."
+  },
+  {
+   "start": 54.9,
+   "text": "A false-colour image assigns different display colours to measurements, making some features easier to distinguish."
+  },
+  {
+   "start": 62.5,
+   "text": "For example, healthy vegetation can appear bright red in certain false-colour images because of its strong response in near-infrared wavelengths."
+  },
+  {
+   "start": 71.6,
+   "text": "However, image colours depend on how the data is displayed."
+  },
+  {
+   "start": 76.1,
+   "text": "Before interpreting an image, it is important to understand which bands were used and what they measure."
+  }
+ ],
+ "transcript": [
+  "When we look at a photograph, we usually see familiar colours and objects. Satellite instruments can observe more than what our eyes can see.",
+  "Many Earth observation satellites measure sunlight reflected from the land, water, and vegetation. Other instruments measure different forms of energy, including thermal radiation.",
+  "The information collected depends on the instrument and the wavelengths it can detect. Visible light includes the colours that human eyes can see. Infrared wavelengths can reveal useful information about vegetation, land surfaces, and other features.",
+  "Scientists often combine measurements from different wavelength bands to investigate environmental conditions.",
+  "A satellite image displayed in natural colour is designed to resemble what we might see with our eyes. A false-colour image assigns different display colours to measurements, making some features easier to distinguish.",
+  "For example, healthy vegetation can appear bright red in certain false-colour images because of its strong response in near-infrared wavelengths.",
+  "However, image colours depend on how the data is displayed. Before interpreting an image, it is important to understand which bands were used and what they measure."
+ ]
+}

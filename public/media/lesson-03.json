@@ -1,0 +1,107 @@
+{
+ "id": "lesson-03",
+ "title": "How Do Satellites Get to Space?",
+ "duration": 69.9,
+ "audio": "lessons/lesson-03.mp3",
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0.0
+  },
+  {
+   "id": "s2",
+   "start": 11.5
+  },
+  {
+   "id": "s3",
+   "start": 19.3
+  },
+  {
+   "id": "s4",
+   "start": 30.3
+  },
+  {
+   "id": "s5",
+   "start": 38.8
+  },
+  {
+   "id": "s6",
+   "start": 50.9
+  },
+  {
+   "id": "s7",
+   "start": 60.5
+  }
+ ],
+ "cues": [
+  {
+   "start": 0.0,
+   "text": "Satellites do not simply fly into space by themselves."
+  },
+  {
+   "start": 7.3,
+   "text": "Most human-made satellites are carried into space by rockets."
+  },
+  {
+   "start": 11.5,
+   "text": "A rocket produces thrust by expelling gas at high speed."
+  },
+  {
+   "start": 15.3,
+   "text": "This force pushes the rocket in the opposite direction."
+  },
+  {
+   "start": 19.3,
+   "text": "Launching a satellite requires enormous energy."
+  },
+  {
+   "start": 22.4,
+   "text": "The rocket must carry the spacecraft above much of Earth\u2019s atmosphere and give it the right speed and direction for its intended orbit."
+  },
+  {
+   "start": 30.3,
+   "text": "Many rockets have multiple stages."
+  },
+  {
+   "start": 32.6,
+   "text": "Once a stage has used its fuel, it can separate so that the remaining rocket carries less mass."
+  },
+  {
+   "start": 38.8,
+   "text": "When the spacecraft reaches the required conditions, it can be released into its planned orbit."
+  },
+  {
+   "start": 44.5,
+   "text": "The satellite then uses its onboard systems to operate, communicate, and carry out its mission."
+  },
+  {
+   "start": 50.9,
+   "text": "Not every satellite follows the same route."
+  },
+  {
+   "start": 53.3,
+   "text": "Some are released directly into orbit by a rocket."
+  },
+  {
+   "start": 56.5,
+   "text": "Others may be transported to a space station and deployed from there."
+  },
+  {
+   "start": 60.5,
+   "text": "Once in orbit, the satellite still needs monitoring and control from the ground."
+  },
+  {
+   "start": 65.4,
+   "text": "Engineers check its health and help ensure that it performs its intended tasks."
+  }
+ ],
+ "transcript": [
+  "Satellites do not simply fly into space by themselves. Most human-made satellites are carried into space by rockets.",
+  "A rocket produces thrust by expelling gas at high speed. This force pushes the rocket in the opposite direction.",
+  "Launching a satellite requires enormous energy. The rocket must carry the spacecraft above much of Earth\u2019s atmosphere and give it the right speed and direction for its intended orbit.",
+  "Many rockets have multiple stages. Once a stage has used its fuel, it can separate so that the remaining rocket carries less mass.",
+  "When the spacecraft reaches the required conditions, it can be released into its planned orbit. The satellite then uses its onboard systems to operate, communicate, and carry out its mission.",
+  "Not every satellite follows the same route. Some are released directly into orbit by a rocket. Others may be transported to a space station and deployed from there.",
+  "Once in orbit, the satellite still needs monitoring and control from the ground. Engineers check its health and help ensure that it performs its intended tasks."
+ ]
+}

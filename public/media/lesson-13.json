@@ -1,0 +1,99 @@
+{
+ "id": "lesson-13",
+ "title": "Listening to Space: Kuntunse",
+ "duration": 80.9,
+ "audio": "lessons/lesson-13.mp3",
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0.0
+  },
+  {
+   "id": "s2",
+   "start": 10.4
+  },
+  {
+   "id": "s3",
+   "start": 17.7
+  },
+  {
+   "id": "s4",
+   "start": 30.0
+  },
+  {
+   "id": "s5",
+   "start": 42.1
+  },
+  {
+   "id": "s6",
+   "start": 58.0
+  },
+  {
+   "id": "s7",
+   "start": 72.7
+  }
+ ],
+ "cues": [
+  {
+   "start": 0.0,
+   "text": "When you imagine listening to space, you might picture the sound of a spacecraft moving past the stars."
+  },
+  {
+   "start": 10.4,
+   "text": "But space is mostly a vacuum, so ordinary sound cannot travel through it in the way it travels through air on Earth."
+  },
+  {
+   "start": 17.7,
+   "text": "Astronomers can still study the universe using radio waves."
+  },
+  {
+   "start": 21.5,
+   "text": "Radio waves are a form of electromagnetic radiation."
+  },
+  {
+   "start": 25.5,
+   "text": "Unlike ordinary sound, they can travel through the vacuum of space."
+  },
+  {
+   "start": 30.0,
+   "text": "Radio telescopes detect radio signals from objects and processes in the universe."
+  },
+  {
+   "start": 35.5,
+   "text": "Scientists then analyse these signals to investigate astronomical sources and learn more about the cosmos."
+  },
+  {
+   "start": 42.1,
+   "text": "Sometimes, researchers convert measurements into sound so people can listen to patterns in the data."
+  },
+  {
+   "start": 48.2,
+   "text": "This process is called sonification."
+  },
+  {
+   "start": 51.1,
+   "text": "The sound is a way of representing the data; it is not necessarily the original sound of the astronomical object."
+  },
+  {
+   "start": 58.0,
+   "text": "Ghana has an important connection to radio astronomy through the Ghana Radio Astronomy Observatory at Kuntunse, near Accra."
+  },
+  {
+   "start": 65.7,
+   "text": "The facility uses a large radio telescope to support astronomical research and related scientific activities."
+  },
+  {
+   "start": 72.7,
+   "text": "By studying radio signals, researchers can investigate parts of the universe that are difficult or impossible to study using visible light alone."
+  }
+ ],
+ "transcript": [
+  "When you imagine listening to space, you might picture the sound of a spacecraft moving past the stars.",
+  "But space is mostly a vacuum, so ordinary sound cannot travel through it in the way it travels through air on Earth.",
+  "Astronomers can still study the universe using radio waves. Radio waves are a form of electromagnetic radiation. Unlike ordinary sound, they can travel through the vacuum of space.",
+  "Radio telescopes detect radio signals from objects and processes in the universe. Scientists then analyse these signals to investigate astronomical sources and learn more about the cosmos.",
+  "Sometimes, researchers convert measurements into sound so people can listen to patterns in the data. This process is called sonification. The sound is a way of representing the data; it is not necessarily the original sound of the astronomical object.",
+  "Ghana has an important connection to radio astronomy through the Ghana Radio Astronomy Observatory at Kuntunse, near Accra. The facility uses a large radio telescope to support astronomical research and related scientific activities.",
+  "By studying radio signals, researchers can investigate parts of the universe that are difficult or impossible to study using visible light alone."
+ ]
+}

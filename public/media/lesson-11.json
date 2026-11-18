@@ -1,0 +1,107 @@
+{
+ "id": "lesson-11",
+ "title": "Planets",
+ "duration": 80.7,
+ "audio": "lessons/lesson-11.mp3",
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0.0
+  },
+  {
+   "id": "s2",
+   "start": 8.4
+  },
+  {
+   "id": "s3",
+   "start": 18.9
+  },
+  {
+   "id": "s4",
+   "start": 35.2
+  },
+  {
+   "id": "s5",
+   "start": 49.9
+  },
+  {
+   "id": "s6",
+   "start": 59.8
+  },
+  {
+   "id": "s7",
+   "start": 73.0
+  }
+ ],
+ "cues": [
+  {
+   "start": 0.0,
+   "text": "Our solar system contains eight recognised planets that orbit the Sun."
+  },
+  {
+   "start": 8.4,
+   "text": "Starting closest to the Sun, they are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+   "start": 18.9,
+   "text": "The four inner planets, Mercury, Venus, Earth, and Mars, are rocky worlds."
+  },
+  {
+   "start": 25.2,
+   "text": "Beyond them are four giant planets."
+  },
+  {
+   "start": 28.2,
+   "text": "Jupiter and Saturn are gas giants, while Uranus and Neptune are commonly described as ice giants."
+  },
+  {
+   "start": 35.2,
+   "text": "Planets do not usually produce visible light the way stars do."
+  },
+  {
+   "start": 39.6,
+   "text": "We see many planets in the night sky because they reflect sunlight."
+  },
+  {
+   "start": 43.9,
+   "text": "Some planets can appear exceptionally bright, depending on their position relative to Earth and the Sun."
+  },
+  {
+   "start": 49.9,
+   "text": "The planets orbit the Sun at different distances and speeds."
+  },
+  {
+   "start": 54.2,
+   "text": "Earth takes about one year to complete an orbit."
+  },
+  {
+   "start": 57.1,
+   "text": "Other planets take different amounts of time."
+  },
+  {
+   "start": 59.8,
+   "text": "From Ghana, several planets can be observed with the naked eye at suitable times, provided the sky and viewing conditions are favourable."
+  },
+  {
+   "start": 68.0,
+   "text": "A sky map or astronomy application can help you identify where to look."
+  },
+  {
+   "start": 73.0,
+   "text": "Remember that the planets are worlds with very different environments."
+  },
+  {
+   "start": 77.3,
+   "text": "Earth is the only planet currently known to support life."
+  }
+ ],
+ "transcript": [
+  "Our solar system contains eight recognised planets that orbit the Sun.",
+  "Starting closest to the Sun, they are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+  "The four inner planets, Mercury, Venus, Earth, and Mars, are rocky worlds. Beyond them are four giant planets. Jupiter and Saturn are gas giants, while Uranus and Neptune are commonly described as ice giants.",
+  "Planets do not usually produce visible light the way stars do. We see many planets in the night sky because they reflect sunlight. Some planets can appear exceptionally bright, depending on their position relative to Earth and the Sun.",
+  "The planets orbit the Sun at different distances and speeds. Earth takes about one year to complete an orbit. Other planets take different amounts of time.",
+  "From Ghana, several planets can be observed with the naked eye at suitable times, provided the sky and viewing conditions are favourable. A sky map or astronomy application can help you identify where to look.",
+  "Remember that the planets are worlds with very different environments. Earth is the only planet currently known to support life."
+ ]
+}

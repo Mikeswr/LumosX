@@ -1,0 +1,95 @@
+{
+ "id": "lesson-02",
+ "title": "What Is a Satellite?",
+ "duration": 71.9,
+ "audio": "lessons/lesson-02.mp3",
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0.0
+  },
+  {
+   "id": "s2",
+   "start": 10.7
+  },
+  {
+   "id": "s3",
+   "start": 15.5
+  },
+  {
+   "id": "s4",
+   "start": 25.4
+  },
+  {
+   "id": "s5",
+   "start": 35.7
+  },
+  {
+   "id": "s6",
+   "start": 51.0
+  },
+  {
+   "id": "s7",
+   "start": 63.9
+  }
+ ],
+ "cues": [
+  {
+   "start": 0.0,
+   "text": "When you hear the word satellite, what comes to mind?"
+  },
+  {
+   "start": 5.4,
+   "text": "Perhaps a spacecraft, a television dish, or an image of Earth taken from space."
+  },
+  {
+   "start": 10.7,
+   "text": "A satellite is an object that travels around another object in space."
+  },
+  {
+   "start": 15.5,
+   "text": "The Moon is a natural satellite because it orbits Earth."
+  },
+  {
+   "start": 19.8,
+   "text": "Human-made satellites are spacecraft placed into orbit to perform particular tasks."
+  },
+  {
+   "start": 25.4,
+   "text": "Some satellites support communication."
+  },
+  {
+   "start": 28.4,
+   "text": "Others help with navigation, weather monitoring, scientific research, or observing Earth\u2019s surface."
+  },
+  {
+   "start": 35.7,
+   "text": "Earth observation satellites carry instruments that measure energy coming from Earth or reflected by its surface."
+  },
+  {
+   "start": 43.3,
+   "text": "Scientists use these measurements to study vegetation, water, cities, clouds, and many other features."
+  },
+  {
+   "start": 51.0,
+   "text": "A satellite is more than a camera floating above Earth."
+  },
+  {
+   "start": 54.8,
+   "text": "Its instruments collect specific kinds of information, and the data must be transmitted, processed, and interpreted before it becomes useful to us."
+  },
+  {
+   "start": 63.9,
+   "text": "Satellites are valuable because they allow us to collect observations from space and use them to answer questions about our planet."
+  }
+ ],
+ "transcript": [
+  "When you hear the word satellite, what comes to mind? Perhaps a spacecraft, a television dish, or an image of Earth taken from space.",
+  "A satellite is an object that travels around another object in space.",
+  "The Moon is a natural satellite because it orbits Earth. Human-made satellites are spacecraft placed into orbit to perform particular tasks.",
+  "Some satellites support communication. Others help with navigation, weather monitoring, scientific research, or observing Earth\u2019s surface.",
+  "Earth observation satellites carry instruments that measure energy coming from Earth or reflected by its surface. Scientists use these measurements to study vegetation, water, cities, clouds, and many other features.",
+  "A satellite is more than a camera floating above Earth. Its instruments collect specific kinds of information, and the data must be transmitted, processed, and interpreted before it becomes useful to us.",
+  "Satellites are valuable because they allow us to collect observations from space and use them to answer questions about our planet."
+ ]
+}

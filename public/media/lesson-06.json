@@ -1,0 +1,104 @@
+{
+ "id": "lesson-06",
+ "title": "What Does Resolution Mean?",
+ "duration": 80.4,
+ "audio": "lessons/lesson-06.mp3",
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0.0
+  },
+  {
+   "id": "s2",
+   "start": 10.9
+  },
+  {
+   "id": "s3",
+   "start": 28.2
+  },
+  {
+   "id": "s4",
+   "start": 37.9
+  },
+  {
+   "id": "s5",
+   "start": 41.0
+  },
+  {
+   "id": "s6",
+   "start": 52.0
+  },
+  {
+   "id": "s7",
+   "start": 64.8
+  },
+  {
+   "id": "s8",
+   "start": 73.5
+  }
+ ],
+ "cues": [
+  {
+   "start": 0.0,
+   "text": "Imagine zooming in on an image until you can see the tiny squares that make it up."
+  },
+  {
+   "start": 8.5,
+   "text": "These squares are called pixels."
+  },
+  {
+   "start": 10.9,
+   "text": "In satellite imagery, spatial resolution describes the size of the ground area represented by a pixel."
+  },
+  {
+   "start": 18.7,
+   "text": "In this Sentinel-2 data, a pixel from a band with ten-metre spatial resolution represents an area about ten metres by ten metres on the ground."
+  },
+  {
+   "start": 28.2,
+   "text": "Smaller pixels can reveal smaller features, although the actual detail also depends on the sensor, image quality, and processing."
+  },
+  {
+   "start": 37.9,
+   "text": "Resolution has other meanings too."
+  },
+  {
+   "start": 41.0,
+   "text": "Temporal resolution concerns how frequently a satellite or satellite system can observe the same location."
+  },
+  {
+   "start": 47.6,
+   "text": "Some satellites revisit areas more frequently than others."
+  },
+  {
+   "start": 52.0,
+   "text": "Spectral resolution concerns a sensor\u2019s ability to distinguish information across wavelengths."
+  },
+  {
+   "start": 58.2,
+   "text": "Radiometric resolution relates to how finely a sensor records differences in signal intensity."
+  },
+  {
+   "start": 64.8,
+   "text": "These are different concepts."
+  },
+  {
+   "start": 66.7,
+   "text": "An image with small pixels does not necessarily have the most frequent observations or the greatest spectral detail."
+  },
+  {
+   "start": 73.5,
+   "text": "When choosing satellite data, scientists consider which kind of resolution is most important for their research question."
+  }
+ ],
+ "transcript": [
+  "Imagine zooming in on an image until you can see the tiny squares that make it up. These squares are called pixels.",
+  "In satellite imagery, spatial resolution describes the size of the ground area represented by a pixel. In this Sentinel-2 data, a pixel from a band with ten-metre spatial resolution represents an area about ten metres by ten metres on the ground.",
+  "Smaller pixels can reveal smaller features, although the actual detail also depends on the sensor, image quality, and processing.",
+  "Resolution has other meanings too.",
+  "Temporal resolution concerns how frequently a satellite or satellite system can observe the same location. Some satellites revisit areas more frequently than others.",
+  "Spectral resolution concerns a sensor\u2019s ability to distinguish information across wavelengths. Radiometric resolution relates to how finely a sensor records differences in signal intensity.",
+  "These are different concepts. An image with small pixels does not necessarily have the most frequent observations or the greatest spectral detail.",
+  "When choosing satellite data, scientists consider which kind of resolution is most important for their research question."
+ ]
+}

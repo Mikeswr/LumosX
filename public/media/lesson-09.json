@@ -1,0 +1,94 @@
+{
+ "id": "lesson-09",
+ "title": "The Sun",
+ "duration": 75.3,
+ "audio": "lessons/lesson-09.mp3",
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0.0
+  },
+  {
+   "id": "s2",
+   "start": 13.9
+  },
+  {
+   "id": "s3",
+   "start": 26.0
+  },
+  {
+   "id": "s4",
+   "start": 40.4
+  },
+  {
+   "id": "s5",
+   "start": 49.2
+  },
+  {
+   "id": "s6",
+   "start": 62.1
+  }
+ ],
+ "cues": [
+  {
+   "start": 0.0,
+   "text": "The Sun is the star at the centre of our solar system."
+  },
+  {
+   "start": 7.0,
+   "text": "It is an enormous, hot ball of gas that releases energy through nuclear fusion in its core."
+  },
+  {
+   "start": 13.9,
+   "text": "That energy travels through space and reaches Earth as sunlight."
+  },
+  {
+   "start": 18.7,
+   "text": "Sunlight provides much of the energy that drives weather, supports photosynthesis, and warms our planet."
+  },
+  {
+   "start": 26.0,
+   "text": "The Sun also helps explain the daily pattern of day and night."
+  },
+  {
+   "start": 30.4,
+   "text": "Earth rotates on its axis."
+  },
+  {
+   "start": 32.7,
+   "text": "As our part of Earth turns toward the Sun, we experience daytime."
+  },
+  {
+   "start": 36.9,
+   "text": "As it turns away, we experience night."
+  },
+  {
+   "start": 40.4,
+   "text": "The Sun appears to move across the sky during the day, but this apparent daily motion is mainly caused by Earth\u2019s rotation."
+  },
+  {
+   "start": 49.2,
+   "text": "Scientists also study sunlight reflected from Earth\u2019s surface using satellite instruments."
+  },
+  {
+   "start": 54.9,
+   "text": "Different surfaces reflect energy differently, which can help us learn about vegetation, water, and land."
+  },
+  {
+   "start": 62.1,
+   "text": "One important safety rule: never look directly at the Sun with your naked eyes, binoculars, or an ordinary telescope."
+  },
+  {
+   "start": 69.8,
+   "text": "Specialised, properly designed solar viewing equipment is needed for safe direct observation."
+  }
+ ],
+ "transcript": [
+  "The Sun is the star at the centre of our solar system. It is an enormous, hot ball of gas that releases energy through nuclear fusion in its core.",
+  "That energy travels through space and reaches Earth as sunlight. Sunlight provides much of the energy that drives weather, supports photosynthesis, and warms our planet.",
+  "The Sun also helps explain the daily pattern of day and night. Earth rotates on its axis. As our part of Earth turns toward the Sun, we experience daytime. As it turns away, we experience night.",
+  "The Sun appears to move across the sky during the day, but this apparent daily motion is mainly caused by Earth\u2019s rotation.",
+  "Scientists also study sunlight reflected from Earth\u2019s surface using satellite instruments. Different surfaces reflect energy differently, which can help us learn about vegetation, water, and land.",
+  "One important safety rule: never look directly at the Sun with your naked eyes, binoculars, or an ordinary telescope. Specialised, properly designed solar viewing equipment is needed for safe direct observation."
+ ]
+}

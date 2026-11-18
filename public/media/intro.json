@@ -1,0 +1,28 @@
+{
+ "id": "intro",
+ "title": "Why space science matters",
+ "duration": 40.8,
+ "scenes": [
+  {
+   "id": "ig1",
+   "start": 0,
+   "caption": "Space science is the study of space, and the machines we send there."
+  },
+  {
+   "id": "ig2",
+   "start": 10.3,
+   "caption": "Satellites help with weather forecasts, phone maps and TV and phone signals."
+  },
+  {
+   "id": "ig3",
+   "start": 22.0,
+   "caption": "In 2012, Ghana opened its own space science institute."
+  },
+  {
+   "id": "ig4",
+   "start": 29.5,
+   "caption": "Satellites help us look after our coast, farms and growing towns."
+  }
+ ],
+ "silent": true
+}

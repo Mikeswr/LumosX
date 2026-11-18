@@ -1,0 +1,94 @@
+{
+ "id": "lesson-12",
+ "title": "Stars and the Night Sky in Ghana",
+ "duration": 66.3,
+ "audio": "lessons/lesson-12.mp3",
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0.0
+  },
+  {
+   "id": "s2",
+   "start": 7.7
+  },
+  {
+   "id": "s3",
+   "start": 21.6
+  },
+  {
+   "id": "s4",
+   "start": 34.1
+  },
+  {
+   "id": "s5",
+   "start": 41.8
+  },
+  {
+   "id": "s6",
+   "start": 56.0
+  }
+ ],
+ "cues": [
+  {
+   "start": 0.0,
+   "text": "On a clear night in Ghana, look up and you may see many points of light scattered across the sky."
+  },
+  {
+   "start": 7.7,
+   "text": "Most of those points are stars: enormous, distant objects that produce their own light and energy."
+  },
+  {
+   "start": 14.2,
+   "text": "Our Sun is also a star, but it appears much brighter because it is far closer to Earth than the other stars we see."
+  },
+  {
+   "start": 21.6,
+   "text": "The patterns formed by stars can help people identify familiar regions of the sky."
+  },
+  {
+   "start": 26.5,
+   "text": "Some patterns are called constellations."
+  },
+  {
+   "start": 29.0,
+   "text": "Different cultures have developed their own stories and traditions connected to the stars."
+  },
+  {
+   "start": 34.1,
+   "text": "The stars appear to move across the sky during the night."
+  },
+  {
+   "start": 37.4,
+   "text": "This apparent motion is mainly caused by Earth\u2019s rotation."
+  },
+  {
+   "start": 41.8,
+   "text": "What you can see also depends on the season, your location, the weather, and how much artificial light surrounds you."
+  },
+  {
+   "start": 48.7,
+   "text": "Bright city lights make faint stars harder to see."
+  },
+  {
+   "start": 52.0,
+   "text": "Moving away from strong lights can reveal more of the night sky."
+  },
+  {
+   "start": 56.0,
+   "text": "You do not need an expensive telescope to begin."
+  },
+  {
+   "start": 59.0,
+   "text": "Start by observing the sky with your eyes, learning a few bright stars, and using a reliable sky map to guide your exploration."
+  }
+ ],
+ "transcript": [
+  "On a clear night in Ghana, look up and you may see many points of light scattered across the sky.",
+  "Most of those points are stars: enormous, distant objects that produce their own light and energy. Our Sun is also a star, but it appears much brighter because it is far closer to Earth than the other stars we see.",
+  "The patterns formed by stars can help people identify familiar regions of the sky. Some patterns are called constellations. Different cultures have developed their own stories and traditions connected to the stars.",
+  "The stars appear to move across the sky during the night. This apparent motion is mainly caused by Earth\u2019s rotation.",
+  "What you can see also depends on the season, your location, the weather, and how much artificial light surrounds you. Bright city lights make faint stars harder to see. Moving away from strong lights can reveal more of the night sky.",
+  "You do not need an expensive telescope to begin. Start by observing the sky with your eyes, learning a few bright stars, and using a reliable sky map to guide your exploration."
+ ]
+}

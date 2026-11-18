@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>How a satellite takes a picture</title><link rel="stylesheet" href="player.css"></head><body>
+<main>
+<h1 class="sr">How a satellite takes a picture of Pokuase</h1>
+
+<svg class="anim" viewBox="0 0 680 340" role="img" aria-label="Animation: a satellite photographs Pokuase">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<g id="sat"><rect x="-62" y="-7" width="40" height="14" fill="#2b5aa8"/><rect x="22" y="-7" width="40" height="14" fill="#2b5aa8"/><rect x="-16" y="-12" width="32" height="24" rx="3" fill="#8a8f98"/><circle cx="0" cy="12" r="4" fill="#1f2933"/></g>
+<g id="pic"><rect width="70" height="70" fill="#6f9a4a"/><rect x="38" y="36" width="20" height="16" fill="#9a9a90"/><rect x="10" y="10" width="16" height="12" fill="#4a7a3a"/></g>
+<g id="specks"><rect x="100" y="100" width="9" height="6" fill="#b5654a"/><rect x="140" y="210" width="9" height="6" fill="#b5654a"/><rect x="95" y="175" width="9" height="6" fill="#b5654a"/><rect x="270" y="100" width="9" height="6" fill="#b5654a"/><rect x="120" y="130" width="9" height="6" fill="#9a9a90"/><rect x="255" y="215" width="9" height="6" fill="#9a9a90"/></g></defs>
+<g id="g1" class="scn"><path d="M0 292Q340 262 680 292L680 340L0 340Z" fill="#3f6b34"/><circle cx="340" cy="277" r="5" fill="#f5b82e" stroke="#fff" stroke-width="1.5"/><text class="ts" x="340" y="318" text-anchor="middle" style="fill:#ffffff">Pokuase</text><line class="leader" x1="40" y1="100" x2="640" y2="100"/><g transform="translate(340 100)"><g class="drift"><use href="#sat"/></g></g><text class="th" x="340" y="38" text-anchor="middle">Sentinel-2 satellite</text><text class="ts" x="340" y="58" text-anchor="middle">About 786 km up</text><text class="ts" x="640" y="318" text-anchor="end" style="fill:#ffffff">Not to scale</text></g>
+<g id="g2" class="scn"><path d="M0 292Q340 262 680 292L680 340L0 340Z" fill="#3f6b34"/><circle cx="340" cy="277" r="5" fill="#f5b82e" stroke="#fff" stroke-width="1.5"/><text class="ts" x="340" y="318" text-anchor="middle" style="fill:#ffffff">Pokuase</text><circle cx="90" cy="70" r="22" fill="#f5b82e"/><text class="ts" x="90" y="112" text-anchor="middle">Sunlight</text><line class="flow" x1="112" y1="88" x2="334" y2="272" stroke="#f5b82e" stroke-width="3" stroke-linecap="round"/><line class="flow" x1="346" y1="272" x2="562" y2="106" stroke="#e8923a" stroke-width="3" stroke-linecap="round"/><use href="#sat" transform="translate(580 92)"/><text class="th" x="540" y="46" text-anchor="middle">Satellite instrument</text><text class="ts" x="655" y="232" text-anchor="end">Light bounces back</text></g>
+<g id="g3" class="scn"><g id="grid"></g><line x1="304" y1="80" x2="340" y2="80" stroke="var(--fg)"/><line x1="304" y1="76" x2="304" y2="84" stroke="var(--fg)"/><line x1="340" y1="76" x2="340" y2="84" stroke="var(--fg)"/><text class="ts" x="322" y="68" text-anchor="middle">10 m wide</text><text class="th" x="340" y="268" text-anchor="middle">One square is one pixel</text></g>
+<g id="g4" class="scn"><use href="#pic" transform="translate(60 110)"/><use href="#pic" transform="translate(140 110)"/><use href="#pic" transform="translate(220 110)"/><g fill="#f2f2f2" opacity=".95"><ellipse class="cl" cx="95" cy="148" rx="26" ry="14"/><ellipse class="cl" cx="240" cy="125" rx="22" ry="11"/><ellipse class="cl" cx="165" cy="170" rx="20" ry="10"/></g><line class="arr" x1="304" y1="145" x2="400" y2="145" marker-end="url(#arrow)"/><use href="#pic" transform="translate(420 85) scale(1.7)"/><text class="ts" x="175" y="212" text-anchor="middle">Pictures with clouds</text><text class="th" x="480" y="228" text-anchor="middle">One clear picture</text></g>
+<g id="g5" class="scn"><rect x="70" y="60" width="220" height="180" fill="#6f9a4a"/><ellipse cx="220" cy="150" rx="40" ry="50" fill="#3c6a34"/><use href="#specks"/><rect x="390" y="60" width="220" height="180" fill="#6f9a4a"/><ellipse cx="540" cy="150" rx="40" ry="50" fill="#c8a27a" opacity=".9"/><line x1="420" y1="66" x2="600" y2="236" stroke="#e0c9a6" stroke-width="7" stroke-linecap="round"/><use href="#specks" transform="translate(320 0)"/><ellipse class="pulse" cx="220" cy="150" rx="48" ry="58" fill="none" stroke="#f5b82e" stroke-width="2.5" stroke-dasharray="6 4"/><ellipse class="pulse" cx="540" cy="150" rx="48" ry="58" fill="none" stroke="#f5b82e" stroke-width="2.5" stroke-dasharray="6 4"/><line class="arr" x1="300" y1="150" x2="380" y2="150" marker-end="url(#arrow)"/><text class="th" x="180" y="270" text-anchor="middle">2017</text><text class="th" x="500" y="270" text-anchor="middle">2025</text></g>
+</svg>
+<script>
+var MAP=["ggddtggg","gtrrstgd","trrsrrtg","rssrrtgg"],COL={g:"#6f9a4a",d:"#3c6a34",t:"#c8a27a",r:"#b5654a",s:"#9a9a90"};
+var grid=document.getElementById("grid"),k=0;
+for(var r=0;r<4;r++)for(var c=0;c<8;c++){var e=document.createElementNS("http://www.w3.org/2000/svg","rect");
+e.setAttribute("x",196+c*36);e.setAttribute("y",90+r*36);e.setAttribute("width",34);e.setAttribute("height",34);e.setAttribute("fill",COL[MAP[r][c]]);e.setAttribute("class","sq");e.style.animationDelay=(k++*40)+"ms";grid.appendChild(e);}
+</script>
+<p id="cap" aria-live="polite"></p>
+<div id="ctl" class="ctl"></div>
+<!-- Silent visual animation. The voice-over and its transcript are on the LumosX lesson page. -->
+</main>
+<script src="player.js" data-manifest="satellite.json" defer></script>
+</body></html>

@@ -1,0 +1,103 @@
+{
+ "id": "lesson-04",
+ "title": "How Do Satellites Orbit Earth?",
+ "duration": 70.0,
+ "audio": "lessons/lesson-04.mp3",
+ "scenes": [
+  {
+   "id": "s1",
+   "start": 0.0
+  },
+  {
+   "id": "s2",
+   "start": 9.4
+  },
+  {
+   "id": "s3",
+   "start": 14.8
+  },
+  {
+   "id": "s4",
+   "start": 29.7
+  },
+  {
+   "id": "s5",
+   "start": 41.6
+  },
+  {
+   "id": "s6",
+   "start": 47.4
+  },
+  {
+   "id": "s7",
+   "start": 59.8
+  }
+ ],
+ "cues": [
+  {
+   "start": 0.0,
+   "text": "Look up at the Moon."
+  },
+  {
+   "start": 4.8,
+   "text": "It travels around Earth, and human-made satellites can do the same."
+  },
+  {
+   "start": 9.4,
+   "text": "An orbit is the path an object follows around another object in space."
+  },
+  {
+   "start": 14.8,
+   "text": "Earth\u2019s gravity pulls a satellite toward our planet."
+  },
+  {
+   "start": 18.1,
+   "text": "At the same time, the satellite moves forward at high speed."
+  },
+  {
+   "start": 22.2,
+   "text": "Together, its forward motion and gravity allow it to keep moving around Earth instead of simply falling straight down."
+  },
+  {
+   "start": 29.7,
+   "text": "Satellites can follow different orbits."
+  },
+  {
+   "start": 32.6,
+   "text": "Some travel relatively close to Earth and pass over different locations."
+  },
+  {
+   "start": 36.9,
+   "text": "Others operate in orbits designed to keep them over a similar region of the planet."
+  },
+  {
+   "start": 41.6,
+   "text": "The orbit affects what a satellite can observe and how frequently it returns to a location."
+  },
+  {
+   "start": 47.4,
+   "text": "For example, Earth observation satellites such as Sentinel-2 collect repeated images as they travel along their orbits."
+  },
+  {
+   "start": 55.4,
+   "text": "Scientists can use these observations to monitor changes over time."
+  },
+  {
+   "start": 59.8,
+   "text": "Remember that a satellite does not hover in one place just because it is in space."
+  },
+  {
+   "start": 64.7,
+   "text": "Its motion depends on its orbit, and different missions require different orbital designs."
+  }
+ ],
+ "transcript": [
+  "Look up at the Moon. It travels around Earth, and human-made satellites can do the same.",
+  "An orbit is the path an object follows around another object in space.",
+  "Earth\u2019s gravity pulls a satellite toward our planet. At the same time, the satellite moves forward at high speed. Together, its forward motion and gravity allow it to keep moving around Earth instead of simply falling straight down.",
+  "Satellites can follow different orbits. Some travel relatively close to Earth and pass over different locations. Others operate in orbits designed to keep them over a similar region of the planet.",
+  "The orbit affects what a satellite can observe and how frequently it returns to a location.",
+  "For example, Earth observation satellites such as Sentinel-2 collect repeated images as they travel along their orbits. Scientists can use these observations to monitor changes over time.",
+  "Remember that a satellite does not hover in one place just because it is in space. Its motion depends on its orbit, and different missions require different orbital designs."
+ ]
+}
