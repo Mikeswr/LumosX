@@ -6,6 +6,7 @@ const NAV = [
   { to: '/learn', label: 'Learn', end: false },
   { to: '/explore', label: 'Explore', end: false },
   { to: '/ghana-in-space', label: 'Ghana in Space', end: false },
+  { to: '/investigate', label: 'Investigate', end: false },
 ];
 
 export const Header: React.FC = () => (
@@ -14,7 +15,7 @@ export const Header: React.FC = () => (
       <Link to="/" aria-label="LumosX home" className="text-xl font-extrabold tracking-tight text-ink self-start">
         Lumos<span className="text-amber">X</span>
       </Link>
-      <nav aria-label="Main" className="grid grid-cols-4 sm:flex gap-1 text-[13px] sm:text-sm">
+      <nav aria-label="Main" className="grid grid-cols-5 sm:flex gap-1 text-[13px] sm:text-sm">
         {NAV.map((item) => (
           <NavLink
             key={item.to}
