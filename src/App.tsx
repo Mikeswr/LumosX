@@ -9,6 +9,7 @@ import { LessonPage } from './pages/LessonPage';
 import { FeedbackPage } from './pages/FeedbackPage';
 import { FindYourTownPage } from './pages/FindYourTownPage';
 import { GhanaPage } from './pages/GhanaPage';
+import { InvestigatePage } from './pages/InvestigatePage';
 import { NotFoundPage } from './pages/NotFoundPage';
 
 const ScrollToTop: React.FC = () => {
@@ -32,6 +33,7 @@ export default function App() {
           <Route path="/explore/find-your-town" element={<FindYourTownPage />} />
           <Route path="/explore/find-your-town/:townId" element={<FindYourTownPage />} />
           <Route path="/ghana-in-space" element={<GhanaPage />} />
+          <Route path="/investigate" element={<InvestigatePage />} />
           <Route path="/feedback" element={<FeedbackPage />} />
           <Route path="*" element={<NotFoundPage />} />
         </Routes>
